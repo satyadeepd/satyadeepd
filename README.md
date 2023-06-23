@@ -1,3 +1,4 @@
+![logo](https://github.com/satyadeepd/satyadeepd/blob/main/Mobile-app-Development.jpg)
 <h1 align="center">Hi 👋, I'm Satyadeep Dadi</h1>
 <h3 align="center">A passionate Mobile App developer from India</h3>
 
